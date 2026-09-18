@@ -1,0 +1,13 @@
+{
+  "itemGroup.smartslotlock": "Example Mod Tab",
+  "block.smartslotlock.example_block": "Example Block",
+  "item.smartslotlock.example_item": "Example Item",
+
+  "smartslotlock.configuration.title": "Smart Slot Lock Configs",
+  "smartslotlock.configuration.section.smartslotlock.common.toml": "Smart Slot Lock Configs",
+  "smartslotlock.configuration.section.smartslotlock.common.toml.title": "Smart Slot Lock Configs",
+  "smartslotlock.configuration.items": "Item List",
+  "smartslotlock.configuration.logDirtBlock": "Log Dirt Block",
+  "smartslotlock.configuration.magicNumberIntroduction": "Magic Number Text",
+  "smartslotlock.configuration.magicNumber": "Magic Number"
+}
